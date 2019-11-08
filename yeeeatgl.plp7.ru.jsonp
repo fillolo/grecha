@@ -1,0 +1,14 @@
+﻿CallServer (
+[
+  {
+    "code": "gift1",
+    "discont": "10",
+    "type":"percent"
+  },
+  {
+    "code": "gift2",
+    "discont": "1000",
+    "type": "int"
+  }
+]
+)
